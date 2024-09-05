@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147285954994",
+    "project_id": "rmas-dc129",
+    "storage_bucket": "rmas-dc129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147285954994:android:0a7a75e7b8e3dc0f6e14ab",
+        "android_client_info": {
+          "package_name": "com.example.rmas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_1NGtGOaRJyHvo5I11FARY_UfUQyhp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
